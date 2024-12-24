@@ -27,13 +27,14 @@ http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/218240.mp4
 #EXTINF:-1 tvg-name="Casseta & Planeta Urgente" tvg-logo="https://encurtador.com.br/TCikJ" ,T02EP04
 http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/218241.mp4
 #EXTINF:-1 tvg-name="Casseta & Planeta Urgente" tvg-logo="https://encurtador.com.br/TCikJ" ,T02EP05
-
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/218242.mp4
 #EXTINF:-1 tvg-name="Casseta & Planeta Urgente" tvg-logo="https://encurtador.com.br/TCikJ" ,T02EP06
-
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/218243.mp4
 #EXTINF:-1 tvg-name="Casseta & Planeta Urgente" tvg-logo="https://encurtador.com.br/TCikJ" ,T02EP07
-
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/218244.mp4
 #EXTINF:-1 tvg-name="Casseta & Planeta Urgente" tvg-logo="https://encurtador.com.br/TCikJ" ,T02EP08
-
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/218245.mp4
 #EXTINF:-1 tvg-name="Casseta & Planeta Urgente" tvg-logo="https://encurtador.com.br/TCikJ" ,T02EP09
-
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/218246.mp4
 #EXTINF:-1 tvg-name="Casseta & Planeta Urgente" tvg-logo="https://encurtador.com.br/TCikJ" ,T02EP10
+http://hubby.run/series/bahds10-vods/j14Ok8Gn0T/218247.mp4
